@@ -1,0 +1,49 @@
+MODELS/DB FIELDS
+
+### LISTING(houses for listing)
+id: INT
+realtor: INT (FOREIGN KEY FIELD [realtors])
+title: STR
+address: STR
+city: STR
+state: STR
+zipcode: STR
+description: TEXT
+price: INT
+bedroom: INT
+bathroom: INT
+garage: INT [0]
+sqft: INT
+lot_size: FLOAT
+is_published: BOOL [true]
+list_date: DATE
+photo-main: STR (image location)
+photo_1: STR (image location)
+photo_2: STR (image location)
+photo_3: STR (image location)
+photo_4: STR (image location)
+photo_5: STR (image location)
+photo_6: STR (image location)
+
+### REALTORS (store agents)
+id: INT
+name: STR
+photo: STR (image location)
+description: TEXT
+email: STR
+phone: STR
+is_mvp: BOOL [false]
+hire_date: DATE
+
+### CONTACT (store enquiry)
+id: INT
+user_id: INT
+listing: STR
+listing_id: INT
+name: STR
+email: STR
+phone: STR
+message: TEXT
+contact_date: DATE
+
+
