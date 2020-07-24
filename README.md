@@ -12,6 +12,8 @@ _The core of what it does:_
 
 - Unpublish home from admin page
 
+- Allow users to manage listings in dashboard
+
 - Email user and realtors when inquiry is made about a home
 
 - Send email to user and realtor when an inquiry is made
