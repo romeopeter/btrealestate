@@ -52,20 +52,20 @@ _HTML, CSS, BOOTSTRAP, JAVASCRIPT AND Python._
 
 ## Mobile View
 
+**Home Page**
+![Mobile Home Page](https://res.cloudinary.com/romie/image/upload/v1595597787/BTrealestate/Screen_Shot_2020-06-09_at_01.38.51.png)
+
 **Register Page**
-![Register Page](https://res.cloudinary.com/romie/image/upload/v1595597789/BTrealestate/Screen_Shot_2020-06-09_at_01.39.10.png)
+![Mobile Register Page](https://res.cloudinary.com/romie/image/upload/v1595597789/BTrealestate/Screen_Shot_2020-06-09_at_01.39.10.png)
 
 **Login Page**
-![Login Page](https://res.cloudinary.com/romie/image/upload/v1595597792/BTrealestate/Screen_Shot_2020-06-09_at_01.39.21.png)
+![Mobile Login Page](https://res.cloudinary.com/romie/image/upload/v1595597792/BTrealestate/Screen_Shot_2020-06-09_at_01.39.21.png)
 
 **About Page**
-![About Page](https://res.cloudinary.com/romie/image/upload/v1595597807/BTrealestate/Screen_Shot_2020-06-09_at_01.37.40.png)
+![Mobile About Page](https://res.cloudinary.com/romie/image/upload/v1595597807/BTrealestate/Screen_Shot_2020-06-09_at_01.37.40.png)
 
 **Home Listing**
-![Home Listing](https://res.cloudinary.com/romie/image/upload/v1595597804/BTrealestate/Screen_Shot_2020-06-09_at_01.38.12.png)
+![Mobile Home Listing](https://res.cloudinary.com/romie/image/upload/v1595597804/BTrealestate/Screen_Shot_2020-06-09_at_01.38.12.png)
 
 **Dashboard Page**
-![Dashboard Page](https://res.cloudinary.com/romie/image/upload/v1595597790/BTrealestate/Screen_Shot_2020-06-09_at_01.38.26.png)
-
-**Home Page**
-![Home Page](https://res.cloudinary.com/romie/image/upload/v1595597787/BTrealestate/Screen_Shot_2020-06-09_at_01.38.51.png)
+![Mobile Dashboard Page](https://res.cloudinary.com/romie/image/upload/v1595597790/BTrealestate/Screen_Shot_2020-06-09_at_01.38.26.png)
