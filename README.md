@@ -41,4 +41,4 @@ _HTML, CSS, BOOTSTRAP, JAVASCRIPT AND Python._
 ![Home Inquiry](https://res.cloudinary.com/romie/image/upload/v1595597807/BTrealestate/featured-listings-listing-inquiry-2020-06-09.png)
 
 **User Dashboard**
-![Home Inquiry](https://res.cloudinary.com/romie/image/upload/v1595597775/BTrealestate/Dashboard-2020-06-09.png)
+![User Dashboard](https://res.cloudinary.com/romie/image/upload/v1595597775/BTrealestate/Dashboard-2020-06-09.png)
