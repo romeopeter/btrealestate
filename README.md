@@ -16,7 +16,7 @@ _The core of what it does:_
 
 - Send email to user and realtor when an inquiry is made
 
-_Technology: HTML, CSS, BOOTSTRAP, JAVASCRIPT AND Python._
+_Technology: HTML, CSS, Bootstrap, JavaScript AND Python._
 
 <br>
 
