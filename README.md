@@ -42,3 +42,6 @@ _HTML, CSS, BOOTSTRAP, JAVASCRIPT AND Python._
 
 **User Dashboard**
 ![User Dashboard](https://res.cloudinary.com/romie/image/upload/v1595597775/BTrealestate/Dashboard-2020-06-09.png)
+
+
+## Mobile View
