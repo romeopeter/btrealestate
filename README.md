@@ -4,17 +4,17 @@
 
 _The core of what it does:_
 
-[#1] Manage Listing of homes for sale
+- Manage Listing of homes for sale
 
-[#2] Manage users and customers
+- Manage users and customers
 
-[#3] Manage Realtors assigned to home
+- Manage Realtors assigned to home
 
-[#4] Unpublish home from admin page
+- Unpublish home from admin page
 
-[#5] Email user and realtors when inquiry is made about a home
+- Email user and realtors when inquiry is made about a home
 
-[#6] Send email to user and realtor when an inquiry is made
+- Send email to user and realtor when an inquiry is made
 
 _Technology:_
 
