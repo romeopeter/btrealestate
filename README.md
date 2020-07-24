@@ -1,8 +1,6 @@
 # BTRE
 
-__BTRE is a fully functional real estate web application built with Python web frame-work — Django__
-
-*V 1.0.0*
+**BTRE is a fully functional real estate web application built with Python web frame-work — Django**
 
 _The core of what it does:_
 
@@ -12,7 +10,7 @@ _The core of what it does:_
 
 [#3] Manage Realtors assigned to home
 
-[#4] Unpublishe home from admin back-end
+[#4] Unpublish home from admin page
 
 [#5] Email user and realtors when inquiry is made about a home
 
@@ -20,10 +18,26 @@ _The core of what it does:_
 
 _Technology:_
 
-*HTML5, CSS, BOOTSTRAP, JAVASCRIPT AND Python.*
+_HTML, CSS, BOOTSTRAP, JAVASCRIPT AND Python._
 
 <br>
+**Home Page**
+![Home Page](https://res.cloudinary.com/romie/image/upload/v1595597776/BTrealestate/Annotation_2020-06-09_011524.png)
 
-[![](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]
-[![]()]
-[![]()]
+**Featured Listing**
+![Featured Listing](https://res.cloudinary.com/romie/image/upload/v1595597781/BTrealestate/featured-listing-2020-06-09.png)
+
+**Services**
+![Services](https://res.cloudinary.com/romie/image/upload/v1595597783/BTrealestate/home-services-2020-06-09.png)
+
+**Home Listings**
+![Home Listings](https://res.cloudinary.com/romie/image/upload/v1595597786/BTrealestate/home-listing-2020-06-09.png)
+
+**Home Listing**
+![Home Listing](https://res.cloudinary.com/romie/image/upload/v1595597803/BTrealestate/featured-listings-listing-2020-06-09.png)
+
+**Home Inquiry**
+![Home Inquiry](https://res.cloudinary.com/romie/image/upload/v1595597807/BTrealestate/featured-listings-listing-inquiry-2020-06-09.png)
+
+**User Dashboard**
+![Home Inquiry](https://res.cloudinary.com/romie/image/upload/v1595597775/BTrealestate/Dashboard-2020-06-09.png)
