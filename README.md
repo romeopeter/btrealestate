@@ -21,6 +21,7 @@ _Technology:_
 _HTML, CSS, BOOTSTRAP, JAVASCRIPT AND Python._
 
 <br>
+
 **Home Page**
 ![Home Page](https://res.cloudinary.com/romie/image/upload/v1595597776/BTrealestate/Annotation_2020-06-09_011524.png)
 
