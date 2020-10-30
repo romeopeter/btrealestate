@@ -1,6 +1,6 @@
 # BTRE
 
-**BTRE is a fully functional real estate web application built with Python web frame-work — Django**
+**BTRE is a fully real estate web application built with Django**
 
 _The core of what it does:_
 
